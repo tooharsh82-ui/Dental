@@ -1,0 +1,8 @@
+{
+  "name": "Aura Dental Studio - Premium Dentist Clinic Template",
+  "description": "A premium, fully responsive dentist clinic website template built with React, TypeScript, and Tailwind CSS. Features interactive services, before-and-after sliders, and scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
